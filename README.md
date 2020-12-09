@@ -1,4 +1,4 @@
-# Mentoring Udacoding Week 1
+# Try Kotlin
 1. Buatlah sebuah function dengan 2 parameter (2 Double) mempunyai return value String , dan bisa di jalankan
 2. Buatlah sebuah function yang dapat menerima array deret bilangan dan mengembalikan bilangan yang genap saja
 3. Buatlah sebuah function dengan parameter array string Isi arraynya adalah {udacoding,tempat 2,tempat 3,tempat 4 ,tempat 5}Dan d looping,ketika isi array udacoding,berikan informasi “nah ini belajar coding yang keren”
