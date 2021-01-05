@@ -15,3 +15,8 @@
     Bandung : 1
     Malang : 1
     Bali : 1
+
+
+TERIMA KASIH!! Untuk Inspirasi lain silahkan klik : 
+
+https://biolinky.co/erwinpaisal
